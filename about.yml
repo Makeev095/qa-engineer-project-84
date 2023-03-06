@@ -4,9 +4,8 @@ job: QA Engineer
 level: junior
 email: makeev095095@mail.ru
 description: |
-  Это текст-описание в свободной форме. Здесь можно рассказать пару интересных фактов про себя
+  Люблю python
 
-  Текст может быть написан в несколько абзацев
 skills:
   - Python
   - Django
